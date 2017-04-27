@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/rails1/config/routes.rb</file>
+            <file>file:/var/www/rails1/app/models/article.rb</file>
+            <file>file:/var/www/rails1/app/controllers/articles_controller.rb</file>
+            <file>file:/var/www/rails1/app/views/articles/index.html.erb</file>
+            <file>file:/var/www/rails1/app/views/articles/edit.html.erb</file>
+            <file>file:/var/www/rails1/app/views/articles/show.html.erb</file>
+            <file>file:/var/www/rails1/app/controllers/application_controller.rb</file>
+        </group>
+    </open-files>
+</project-private>
